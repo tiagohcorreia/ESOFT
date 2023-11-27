@@ -1,0 +1,7 @@
+Problem III – Some business rules
+• R1 – A student always has a number and name
+• R2 – Students’ number is always a 7 digits number (e.g. 1190001)
+• R3 – Length of a students’ name cannot be shorter than 5 chars 
+• R4 – Students’ grade ranges between 0 and 20 (no decimals)
+• R5 – Students’ grade results from an evaluatation process (which is out of 
+scope in this application, but only occurs once)
